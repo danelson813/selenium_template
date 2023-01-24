@@ -1,4 +1,5 @@
-import sqlite3
+
+'''import sqlite3
 
 #create a connection
 conn = sqlite3.connect('students.db')
@@ -58,4 +59,4 @@ df.to_sql("population", engine)
 engine = create_engine("sqlite:///mydb.db")
 df.to_sql("population", engine)
 engine.execute("SELECT * FROM population").fetchall()
-
+'''
