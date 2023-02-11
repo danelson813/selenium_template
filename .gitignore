@@ -3,3 +3,5 @@
 pre-commits/
 *.xlsx
 *.json
+venv
+.idea/*
